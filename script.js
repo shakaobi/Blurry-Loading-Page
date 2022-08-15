@@ -1,6 +1,6 @@
 /**
  * Author Camesha Goods 
- * Date:August 13 2014
+ * Date:August 13 2022
  * Description: This project uses CSS, HTML, and JavaScript
  * to create a simple program that loads a picture from
  * opaque to clear, 0-100.
